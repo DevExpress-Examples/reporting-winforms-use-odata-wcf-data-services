@@ -4,7 +4,7 @@
 * [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
 * [NorthwindModel.cs](./CS/NorthwindModel.cs) (VB: [NorthwindModel.vb](./VB/NorthwindModel.vb))
 * [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
-* [Reference.cs](./CS/Service References/NwindServiceReference/Reference.cs) (VB: [Reference.vb](./VB/Service References/NwindServiceReference/Reference.vb))
+* [Reference.cs](./CS/Service%20References/NwindServiceReference/Reference.cs) (VB: [Reference.vb](./VB/Service%20References/NwindServiceReference/Reference.vb))
 * [XtraReport1.cs](./CS/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/XtraReport1.vb))
 <!-- default file list end -->
 # How to use OData (WCF Data Services) to provide data for a report
